@@ -1,0 +1,6 @@
+c:\users\josh\documents\visual studio 2013\Projects\StrongTextGame\StrongTextGame\bin\Debug\StrongTextGame.exe.config
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\StrongTextGame\StrongTextGame\obj\Debug\StrongTextGame.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\StrongTextGame\StrongTextGame\bin\Debug\StrongTextGame.exe
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\StrongTextGame\StrongTextGame\bin\Debug\StrongTextGame.pdb
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\StrongTextGame\StrongTextGame\obj\Debug\StrongTextGame.exe
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\StrongTextGame\StrongTextGame\obj\Debug\StrongTextGame.pdb
